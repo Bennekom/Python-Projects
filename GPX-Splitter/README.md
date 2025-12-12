@@ -13,14 +13,13 @@ Splits een GPX-bestand met meerdere deelroutes (tracks) in afzonderlijke GPX-bes
 - Alle waypoints (<wpt>) uit het inputbestand worden weggeschreven naar:
   All-Waypoints.gpx (in outputmap)
 
-Gebruik:
-
-Optie 1
+## Gebruik:
+### Optie 1
 ```
   python split_gpx.py --input /pad/naar/input.gpx
 ```
 
-Optie 2
+### Optie 2
 ```
   python split_gpx.py -i /pad/naar/input.gpx
 ```
