@@ -1,5 +1,5 @@
 
-GPX Splitter Script
+# GPX Splitter Script
 
 Splits een GPX-bestand met meerdere deelroutes (tracks) in afzonderlijke GPX-bestanden.
 - Bestandsnamen zijn gebaseerd op de tracknaam (<name>), veilig gemaakt voor het OS.
