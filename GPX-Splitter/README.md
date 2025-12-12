@@ -14,5 +14,7 @@ Splits een GPX-bestand met meerdere deelroutes (tracks) in afzonderlijke GPX-bes
   All-Waypoints.gpx (in outputmap)
 
 Gebruik:
+```
   python split_gpx.py --input /pad/naar/input.gpx
   python split_gpx.py -i /pad/naar/input.gpx
+```
