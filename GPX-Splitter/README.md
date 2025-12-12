@@ -16,10 +16,10 @@ Splits een GPX-bestand met meerdere deelroutes (tracks) in afzonderlijke GPX-bes
 ## Gebruik:
 ### Optie 1
 ```
-  python split_gpx.py --input /pad/naar/input.gpx
+  python3 split_gpx.py --input /pad/naar/input.gpx
 ```
 
 ### Optie 2
 ```
-  python split_gpx.py -i /pad/naar/input.gpx
+  python3 split_gpx.py -i /pad/naar/input.gpx
 ```
